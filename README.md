@@ -1,5 +1,5 @@
 # Online Inventory
-This project is a simulation program for an online inventory management model
+This project is the code repository for our paper [Online Inventory Control with Censored Demand: A Neural Network-Based Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461644).
 
 ## Intsall Required Package with conda
 1. To switch to the path of the file, you can use the `cd` command in the terminal. For example, if the download path of the file is `~/desktop/online_inventory`, you can run the command `cd ~/desktop/online_inventory` in the terminal to switch to that directory.

@@ -1,4 +1,4 @@
-# Online Inventory
+# Online Inventory Control with Censored Demand
 This project is the code repository for our paper [Online Inventory Control with Censored Demand: A Neural Network-Based Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461644).
 
 ## Intsall Required Package with conda
